@@ -3,9 +3,6 @@ A central place to submit feature requests and bug reports for solitairex.io. Pl
 
 Here you can report an issue for all of our games:
 
-Thanks! I’ll generate a standalone markdown list containing all 70+ solitaire game links pointing to their respective pages on solitairex.io. I’ll share it with you shortly.
-
-
 * [Klondike Solitaire](https://solitairex.io/)
 * [Solitaire Draw 3](https://solitairex.io/solitaire-draw-3)
 * [Spider Solitaire](https://solitairex.io/spider-solitaire)
